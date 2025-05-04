@@ -1,0 +1,2 @@
+# Employee-Attrition-Prediction-using-Machine-Learning
+This project analyzes HR data to predict whether employees are likely to leave the company. It uses data preprocessing techniques, visualizations, and machine learning models such as Logistic Regression, Random Forest, and Decision Tree. The goal is to help HR departments make data-driven decisions to reduce turnover and improve employee retention.
